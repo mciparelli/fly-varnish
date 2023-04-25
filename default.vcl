@@ -1,6 +1,6 @@
 vcl 4.0;
 
 backend default {
-  .host = "flygreeting.fly.dev";
+  .host = "consulta-handicap.fly.dev";
   .port = "80";
 }
